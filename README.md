@@ -1,1 +1,1 @@
-# VLC_AND_INFRARED
+# RF_and_OPTICAL
